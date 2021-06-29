@@ -53,12 +53,4 @@ root@ismailtasdelen:~# git clone https://github.com/AKKUSANTUY/ANTI-DDOS.git
 
 ### Contact :
 
-##### Gmail : rayarzlost@gmail.com
-
-##### Facebook : https://www.facebook.com/JANGAN.LUPA.ISTIGHFAR.CUK.WA.082134566596
-
-##### GitHub : https://github.com/AKKUSANTUY
-
-##### Instagram : https://www.instagram.com/akku_santuy
-
-##### WhatsApp : 082134566596
+##### Gmail : alt@bigopenworld.fr
