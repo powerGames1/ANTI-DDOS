@@ -1,6 +1,6 @@
 ## Anti DDOS | BASH SCRIPT
 
-![anti-ddos](https://zupimages.net/up/21/26/voks.png) ![bash-language](https://user-images.githubusercontent.com/15425071/34910256-37569a6a-f8c2-11e7-81d8-42dec07d4ef8.png)
+![anti-ddos](https://zupimages.net/up/21/26/u0p9.png) ![bash-language](https://user-images.githubusercontent.com/15425071/34910256-37569a6a-f8c2-11e7-81d8-42dec07d4ef8.png)
 
 ### Programming Languages :
 
