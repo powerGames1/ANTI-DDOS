@@ -1,6 +1,6 @@
 ## Anti DDOS | BASH SCRIPT
 
-<img src="https://img.shields.io/github/issues/detail/author/anti-ddos/Anti-DDOS/1"> <img src="https://img.shields.io/badge/platform-linux-success.svg"> <img src="https://img.shields.io/badge/version-2.3-yellow">
+<img src="https://img.shields.io/badge/platform-linux-success.svg"> <img src="https://img.shields.io/badge/version-2.3-yellow">
 
 
 ![anti-ddos](https://user-images.githubusercontent.com/15425071/34910181-caa9f41c-f8c0-11e7-9ec5-6d43adfeb4bd.png) ![bash-language](https://user-images.githubusercontent.com/15425071/34910256-37569a6a-f8c2-11e7-81d8-42dec07d4ef8.png)
